@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/kube-apiserver:v1.14.1
-MAINTAINER 412327668@qq.com
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.14.1
