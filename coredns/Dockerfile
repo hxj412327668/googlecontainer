@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/coredns-amd64:1.3.1
+FROM k8s.gcr.io/google_containers/coredns-amd64:1.3.1
 MAINTAINER 412327668@qq.com
