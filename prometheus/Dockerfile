@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/prometheus:v2.11.0 
+FROM prom/prometheus:v2.2.1 
 MAINTAINER 412327668@qq.com
