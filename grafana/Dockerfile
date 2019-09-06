@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/heapster-grafana-amd64:v5.0.4 
+FROM grafana/grafana:6.2.2 
 MAINTAINER 412327668@qq.com
