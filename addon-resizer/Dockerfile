@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/addon-resizer-amd64:2.1 
+FROM k8s.gcr.io/addon-resizer:1.8.4
 MAINTAINER 412327668@qq.com
