@@ -1,2 +1,2 @@
-FROM grafana/grafana:6.2.2 
+FROM grafana/grafana:6.0.1 
 MAINTAINER 412327668@qq.com
