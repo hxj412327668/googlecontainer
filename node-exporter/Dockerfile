@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/node-problem-detector:v0.8.0
+FROM quay.io/prometheus/node-exporter:v0.18.1
 MAINTAINER 412327668@qq.com
